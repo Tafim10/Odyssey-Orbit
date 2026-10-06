@@ -1,0 +1,37 @@
+{
+  "project": "Odyssey & Orbit — NASA Space Apps 2026",
+  "asset_strategy": "Story pages use the NASA Image & Video Library API to retrieve official imagery by mission/search query at runtime.",
+  "missions": {
+    "Surveyor 1": {
+      "world": "Moon",
+      "hero_query": "Surveyor 1 moon NASA",
+      "official_mission": "https://science.nasa.gov/mission/surveyor-1/"
+    },
+    "Lunar Orbiter 1": {
+      "world": "Moon",
+      "hero_query": "Lunar Orbiter 1 Earthrise NASA",
+      "official_mission": "https://science.nasa.gov/mission/lunar-orbiter-1/"
+    },
+    "Viking 1": {
+      "world": "Mars",
+      "hero_query": "Viking 1 Mars first photograph NASA",
+      "official_mission": "https://science.nasa.gov/mission/viking-1/"
+    },
+    "Sojourner": {
+      "world": "Mars",
+      "hero_query": "Sojourner rover Mars NASA",
+      "official_mission": "https://science.nasa.gov/mission/mars-pathfinder/"
+    },
+    "Spirit": {
+      "world": "Mars",
+      "hero_query": "Spirit rover Mars McMurdo NASA",
+      "official_mission": "https://science.nasa.gov/mission/mer-spirit/"
+    },
+    "Opportunity": {
+      "world": "Mars",
+      "hero_query": "Opportunity rover dusty selfie NASA",
+      "official_mission": "https://science.nasa.gov/mission/mars-exploration-rovers-spirit-and-opportunity/"
+    }
+  },
+  "archive_api": "https://images-api.nasa.gov/"
+}
