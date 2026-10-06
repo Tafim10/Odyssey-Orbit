@@ -6,7 +6,7 @@ Name: Nura Alom Tafim
 
 Registration Number:
 
-Live Website: https://odysseyorbit.vercel.app
+Live Website: https://odyssey-orbit.vercel.app
 
 ## Project Overview
 
