@@ -1,21 +1,79 @@
-# Odyssey & Orbit — NASA Space Apps 2026
+# Odyssey & Orbit — NASA Space Apps Challenge 2026
 
-A cinematic storytelling website prototype for the 2026 NASA Space Apps Challenge theme about discarded NASA equipment on the Moon and Mars.
+## Team / Participant Information
 
-## User flow
-Landing → Explore → Choose Moon or Mars → Choose equipment → 6-chapter first-person story → NASA evidence + science thread → NASA Image & Video Library archive.
+Name: Nura Alom Tafim 
 
-## Six featured machines
-Moon: Surveyor 1, Lunar Orbiter 1
-Mars: Viking 1, Sojourner, Spirit, Opportunity
+Registration Number:
 
-## Integrated subjects
+Live Website: https://odysseyorbit.vercel.app
+
+## Project Overview
+
+Odyssey & Orbit is an interactive storytelling website created for the NASA Space Apps Challenge 2026 Storytelling challenge.
+
+The project transforms the stories of selected NASA machines and missions into an immersive first-person narrative experience. Visitors can explore stories from the Moon and Mars while learning about space exploration, planets and moons, astrophysics, mission history, and scientific evidence.
+
+## User Flow
+
+Landing Page → Explore → Choose Moon or Mars → Choose Equipment → Interactive Story → NASA Evidence → Science Thread → NASA Image & Video Archive
+
+## Featured Equipment
+
+### Moon
+- Surveyor 1
+- Lunar Orbiter 1
+
+### Mars
+- Viking 1
+- Sojourner
+- Spirit
+- Opportunity
+
+## Integrated NASA Space Apps 2026 Topics
+
 - Astrophysics
-- Planets & Moons
 - Space Exploration
+- Planets & Moons
 
-## Run locally
-Open `index.html` in a modern browser. The NASA Image & Video Library API is called from the browser; an internet connection is required for live imagery and archive search.
+## Main Features
 
-## GitHub
-Replace `githubUrl` in `data.js` with the team repository URL.
+- Interactive storytelling experience
+- Moon and Mars exploration sections
+- Six featured NASA machines/missions
+- First-person equipment storytelling
+- Mission information and historical context
+- NASA evidence and scientific information
+- NASA image and video archive
+- Searchable NASA archive
+- Responsive web interface
+- Interactive navigation and animations
+
+## Bonus Features
+
+- Immersive narrative presentation
+- Science-focused storytelling
+- Mission telemetry and equipment information
+- NASA media exploration
+- Interactive archive search
+- Scroll-based storytelling experience
+
+## How to Run the App
+
+1. Download or clone this repository.
+2. Open the project folder.
+3. Open `index.html` in a modern web browser.
+
+For the best experience, run the project using a local web server such as VS Code Live Server.
+
+## Project Structure
+
+```text
+Odyssey-Orbit/
+├── index.html
+├── app.js
+├── data.js
+├── styles.css
+├── NASA_ASSET_MANIFEST.json
+├── README.md
+└── assets/
