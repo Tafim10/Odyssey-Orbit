@@ -1,6 +1,6 @@
 # Odyssey & Orbit — NASA Space Apps Challenge 2026
 
-## Team / Participant Information
+## Participant Information
 
 Name: Nura Alom Tafim 
 
